@@ -1,6 +1,6 @@
 # streamlit_app.py
 import streamlit as st
-import CV2
+import cv2
 import numpy as np
 from PIL import Image
 import easyocr
