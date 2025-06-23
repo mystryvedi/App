@@ -1,7 +1,3 @@
-pip install streamlit opencv-python-headless easyocr deepface pillow
-
-
-
 # streamlit_app.py
 import streamlit as st
 #import cv2
